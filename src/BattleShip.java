@@ -1,5 +1,3 @@
-package ShipWar;
-
 import javax.print.DocFlavor;
 import java.io.IOException;
 import java.util.Scanner;
